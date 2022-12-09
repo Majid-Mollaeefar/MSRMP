@@ -48,7 +48,8 @@ In order to perform optimization and plot the result, you just need to Run `` Ru
 
 ## Documents
 This tool is part of following research papers:
-1. Multi-Stakeholder Cybersecurity Risk Assessment for Data Protection [SECRYPT 2020](https://www.researchgate.net/profile/Majid_Mollaeefar2/publication/342887924_Multi-Stakeholder_Cybersecurity_Risk_Assessment_for_Data_Protection/links/5f0c0e5aa6fdcc4ca4662b8f/Multi-Stakeholder-Cybersecurity-Risk-Assessment-for-Data-Protection.pdf).
-2. Identifying and Quantifying Trade-offs in Multi-Stakeholder Risk Evaluation with Applications to the Data Protection Impact Assessment of the GDPR [Underwriting]
+1. Multi-Stakeholder Cybersecurity Risk Assessment for Data Protection. [Read here](https://www.researchgate.net/profile/Majid_Mollaeefar2/publication/342887924_Multi-Stakeholder_Cybersecurity_Risk_Assessment_for_Data_Protection/links/5f0c0e5aa6fdcc4ca4662b8f/Multi-Stakeholder-Cybersecurity-Risk-Assessment-for-Data-Protection.pdf)
+2. Identifying and Quantifying Trade-offs in Multi-Stakeholder Risk Evaluation with Applications to the Data Protection Impact Assessment of the GDPR. [Read here](https://arxiv.org/pdf/2207.07385.pdf)
+
 
 
